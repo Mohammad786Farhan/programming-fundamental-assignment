@@ -1,11 +1,7 @@
-# # EXAM PROGRAMMING FUNDAMENTALS
+# #  PROGRAMMING FUNDAMENTALS
 # * The tasks are described in comments below.
 # * Solve the tasks by writing your program directly after the task description.
 # * Upload your solution on Felix within the given time.
-# * Solutions uploaded too late will not be considered and the exam is not passed.
-# * Exchanging information with other people during the exam is prohibited and will 
-#   result in failing the exam.
-# * Tools other than an IDE for programming and Felix for uploading are prohibited.
 
 
 # Task 1: (2 Points)
